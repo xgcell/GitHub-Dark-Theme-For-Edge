@@ -17,4 +17,4 @@ There are three main files included with this plugin. They are sideloaded into e
 * [styles.css](https://github.com/xgcell/GitHub-Dark-Theme-For-Edge/blob/master/styles.css) - This is the contents file provided by [GitHubDark](https://github.com/xt0rted/edge-github-dark).
 * [edge.css](https://github.com/xgcell/GitHub-Dark-Theme-For-Edge/blob/master/edge.css) - This is the edge specific css.
 * [theme.css](https://github.com/xgcell/GitHub-Dark-Theme-For-Edge/blob/master/theme.css) - This is the Monoki theme from [GitHubDark](https://github.com/xt0rted/edge-github-dark).
-*[manifest.json](https://github.com/xgcell/GitHub-Dark-Theme-For-Edge/blob/master/manifest.json) - This is a required file for Edge to sideload the plugin.
+* [manifest.json](https://github.com/xgcell/GitHub-Dark-Theme-For-Edge/blob/master/manifest.json) - This is a required file for Edge to sideload the plugin.
