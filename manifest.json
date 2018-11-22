@@ -1,0 +1,21 @@
+{
+    "name" : "GitHub Dark Theme for Edge",
+    "version" : "1.0.0",
+    "author" : "Micah Olson",
+    "content_scripts": [{
+        "css": [
+            "styles.css",
+            "theme.css",
+            "edge.css"
+        ],
+        "matches": [
+            "*://github.com/*",
+            "*://gist.github.com/*",
+            "*://guides.github.com/*",
+            "*://help.github.com/*",
+            "*://raw.github.com/*",
+            "*://status.github.com/*",
+            "*://developer.github.com/*"
+        ]
+    }]
+}

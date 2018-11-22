@@ -1,0 +1,194 @@
+/* main */
+
+.issues-listing .border-left {
+
+    border-left: #343434 1px solid !important;
+
+}
+
+.issues-listing .border-right {
+
+    border-right: #343434 1px solid !important;
+
+}
+
+.issues-listing .border-bottom {
+
+    border-bottom: #343434 1px solid !important;
+
+}
+
+
+
+/* dialog after merging a pr */
+
+.merge-branch-heading {
+
+    color: #c0c0c0 !important;
+
+}
+
+
+
+/* milestone description text */
+
+.new-discussion-timeline .text-gray-dark {
+
+    color: #c0c0c0 !important;
+
+}
+
+
+
+/* user profile page */
+
+.vcard-details.border-gray-light,
+
+.vcard-details + .border-top {
+
+    border-color: #343434 !important;
+
+}
+
+.pinned-repo-item.border-gray-dark {
+
+    border-color: #484848 !important;
+
+}
+
+.js-contribution-graph .border-gray-dark {
+
+    border-color: #484848 !important;
+
+}
+
+.profile-timeline-card.bg-white {
+
+    background: #181818 !important;
+
+}
+
+.profile-timeline-card.border-gray-dark {
+
+    border-color: #484848 !important;
+
+}
+
+.profile-timeline-card-footer.border-top {
+
+    border-color: #343434 !important;
+
+}
+
+.user-profile-repo-filter.border-gray-dark,
+
+.repo-list .border-bottom,
+
+.js-repo-list .border-bottom,
+
+.js-repo-filter .border-bottom {
+
+    border-color: #343434 !important;
+
+}
+
+.js-repo-filter .link-gray-dark {
+
+    color: #e2e2e2 !important;
+
+}
+
+
+
+/* pull request review */
+
+.pull-request-review-menu .border-top {
+
+    border-color: #343434 !important;
+
+}
+
+.pull-request-review-menu .form-actions {
+
+    background: #202020 !important;
+
+}
+
+.load-diff-container.bg-gray-light{
+
+    background: #1c1c1c !important;
+
+}
+
+
+
+/* pr merge dialog - by default this isn't green, but it tends to look better than nothing or grey */
+
+.merge-branch-form .commit-form {
+
+    border-color: rgb(0, 68, 17) !important;
+
+}
+
+.merge-branch-form .commit-form::before {
+
+    border-right-color: rgb(0, 68, 17) !important;
+
+}
+
+
+
+/* browser test results images as seen on https://github.com/twbs/bootstrap */
+
+a[href^="https://saucelabs.com"] > img {
+
+    background-color: #fff !important;
+
+}
+
+
+
+/* main - blog */
+
+.border-bottom.separation {
+
+    border-bottom: #343434 1px solid !important;
+
+}
+
+
+
+/* theme */
+
+.ace_editor .ace_identifier {
+
+  color: #fff !important;
+
+}
+
+/* Projects Tab*/
+.project-column .bg-white{
+    background-color: #222 !important;
+    
+}
+.repository-content .bg-white{
+    background-color: #222 !important;
+}
+.project-column .border{
+    border-color: #343434 !important;
+}
+.project-columns-container .project-column{
+    border-color: #343434 !important;
+}
+.repository-content .border{
+    border: 1px solid #343434 !important;
+}
+.project-results{
+    border-color: #343434 !important;
+}
+.repository-content .border-bottom{
+    border-bottom: 1px solid #343434 !important;
+}
+.footer .border-top{
+    border-top: 1px solid #343434 !important;
+}
